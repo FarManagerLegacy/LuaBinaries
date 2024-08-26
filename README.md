@@ -1,7 +1,6 @@
 Please check the [releases] section for binary files.
 
-- [LuaSocket](https://github.com/lunarmodules/luasocket)  
-  Requires: [MS Visual C++ Redist]
+- [LuaSocket](https://github.com/lunarmodules/luasocket)
 
 - [LuaSec](https://github.com/lunarmodules/luasec)  
   Requires: [OpenSSL]
@@ -13,5 +12,4 @@ Please check the [releases] section for binary files.
 
 
 [Releases]: https://github.com/FarManagerLegacy/LuaBinaries/releases
-[MS Visual C++ Redist]: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
 [OpenSSL]: https://slproweb.com/products/Win32OpenSSL.html
