@@ -3,7 +3,7 @@ Please check the [releases] section for binary files.
 - [LuaSocket](https://github.com/lunarmodules/luasocket)
 
 - [LuaSec](https://github.com/lunarmodules/luasec)  
-  Requires: [OpenSSL]
+  Requires: [OpenSSL](OpenSSL.md)
 
 - [LuaFileSystem](https://github.com/lunarmodules/luafilesystem)
 
@@ -12,4 +12,3 @@ Please check the [releases] section for binary files.
 
 
 [Releases]: https://github.com/FarManagerLegacy/LuaBinaries/releases
-[OpenSSL]: https://slproweb.com/products/Win32OpenSSL.html
