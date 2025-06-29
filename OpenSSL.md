@@ -36,3 +36,12 @@ Winget packages
   ```
   winget install --id ShiningLight.OpenSSL.Light --architecture x86
   ```
+
+
+Binaries only
+-------------
+
+* from _François Piette's_ Internet Component Suite (**ICS**): https://wiki.overbyte.eu/wiki/index.php/ICS_Download#Download_OpenSSL_Binaries
+  - Pre-compiled Win32/64 libraries
+  - No external dependencies
+  
